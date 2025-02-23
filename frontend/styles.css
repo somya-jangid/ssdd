@@ -1,0 +1,46 @@
+body {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
+.nav-links a {
+    color: #FF69B4;
+    text-decoration: none;
+}
+.hero {
+    background-image: url('https://example.com/dark-cityscape.jpg');
+    background-size: cover;
+    position: relative;
+}
+.headline {
+    font-family: 'Montserrat', sans-serif;
+    color: #FF69B4;
+}
+.cta-button {
+    background-color: #00FFFF;
+    border: none;
+    color: #121212;
+    font-family: 'Poppins', sans-serif;
+}
+.feature-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
+.about-image {
+    background-image: url('https://example.com/team-photo.jpg');
+    background-size: cover;
+}
+.portfolio-item {
+    background-size: cover;
+}
+.contact-form {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
+footer {
+    background: linear-gradient(#1A1A1A, #121212);
+}
